@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BlogRa</title>
-    <link>https://kristy2052.github.io/blogra/categories/</link>
+    <link>https://kristy2052.github.io/BlogRaWeb/categories/</link>
     <description>Recent content in Categories on BlogRa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://kristy2052.github.io/blogra/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kristy2052.github.io/BlogRaWeb/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlogRa</title>
+    <link>https://cloud.mrym.xyz/blogra/</link>
+    <description>Recent content on BlogRa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2022 21:04:41 +0800</lastBuildDate><atom:link href="https://cloud.mrym.xyz/blogra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post666</title>
+      <link>https://cloud.mrym.xyz/blogra/posts/my-first-post666/</link>
+      <pubDate>Sat, 08 Oct 2022 21:04:41 +0800</pubDate>
+      
+      <guid>https://cloud.mrym.xyz/blogra/posts/my-first-post666/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://cloud.mrym.xyz/blogra/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Oct 2022 20:59:49 +0800</pubDate>
+      
+      <guid>https://cloud.mrym.xyz/blogra/posts/my-first-post/</guid>
+      <description>**央视网消息：**眼下，正值晚稻收获时节，在四川巴中南江县，丘陵山区的梯田泛起层层金黄。今年，当地引进小型农机作业，山区农村处处呈现一片火热的秋收场景。
+在巴中南江县高桥镇土门村，一些小型水稻收割机在田间来回穿梭。
+据了解，今年南江县种植水稻面积26万多亩，机械化率由过去的57%提升到现在的69%。
+编辑：杨书杰 责任编辑：刘亮</description>
+    </item>
+    
+  </channel>
+</rss>
